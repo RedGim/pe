@@ -1,0 +1,15 @@
+C:\Users\Miguel Angel\Desktop\pe\Mio\bin\Debug\net9.0\Mio.exe
+C:\Users\Miguel Angel\Desktop\pe\Mio\bin\Debug\net9.0\Mio.deps.json
+C:\Users\Miguel Angel\Desktop\pe\Mio\bin\Debug\net9.0\Mio.runtimeconfig.json
+C:\Users\Miguel Angel\Desktop\pe\Mio\bin\Debug\net9.0\Mio.dll
+C:\Users\Miguel Angel\Desktop\pe\Mio\bin\Debug\net9.0\Mio.pdb
+C:\Users\Miguel Angel\Desktop\pe\Mio\obj\Debug\net9.0\Mio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Angel\Desktop\pe\Mio\obj\Debug\net9.0\Mio.AssemblyInfoInputs.cache
+C:\Users\Miguel Angel\Desktop\pe\Mio\obj\Debug\net9.0\Mio.AssemblyInfo.cs
+C:\Users\Miguel Angel\Desktop\pe\Mio\obj\Debug\net9.0\Mio.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel\Desktop\pe\Mio\obj\Debug\net9.0\Mio.sourcelink.json
+C:\Users\Miguel Angel\Desktop\pe\Mio\obj\Debug\net9.0\Mio.dll
+C:\Users\Miguel Angel\Desktop\pe\Mio\obj\Debug\net9.0\refint\Mio.dll
+C:\Users\Miguel Angel\Desktop\pe\Mio\obj\Debug\net9.0\Mio.pdb
+C:\Users\Miguel Angel\Desktop\pe\Mio\obj\Debug\net9.0\Mio.genruntimeconfig.cache
+C:\Users\Miguel Angel\Desktop\pe\Mio\obj\Debug\net9.0\ref\Mio.dll

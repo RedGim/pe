@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miguel Angel\\desktop\\pe\\Mio\\Mio.csproj": {}
+    "C:\\Users\\Miguel Angel\\Desktop\\pe\\Mio\\Mio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miguel Angel\\desktop\\pe\\Mio\\Mio.csproj": {
+    "C:\\Users\\Miguel Angel\\Desktop\\pe\\Mio\\Mio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel Angel\\desktop\\pe\\Mio\\Mio.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel Angel\\Desktop\\pe\\Mio\\Mio.csproj",
         "projectName": "Mio",
-        "projectPath": "C:\\Users\\Miguel Angel\\desktop\\pe\\Mio\\Mio.csproj",
+        "projectPath": "C:\\Users\\Miguel Angel\\Desktop\\pe\\Mio\\Mio.csproj",
         "packagesPath": "C:\\Users\\Miguel Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miguel Angel\\desktop\\pe\\Mio\\obj\\",
+        "outputPath": "C:\\Users\\Miguel Angel\\Desktop\\pe\\Mio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miguel Angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
